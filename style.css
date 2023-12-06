@@ -1,0 +1,188 @@
+body{
+    position: relative;
+    background-color:white;
+    font-family: 'Noto Serif', serif;
+}
+.heading{
+width:100%;
+position: absolute;
+margin-top: 20px;
+font-size: 100%;
+font-weight:bold;
+font-family: 'Noto Serif', serif;
+}
+h1{
+    font-size:100px;
+    justify-content: space-around;
+    text-align: center;
+}
+.col-9{
+    margin-top: 140px;
+    height: 30px;
+    width:800px;
+    background-color: rgb(150, 199, 242);
+}
+.col-3{
+    margin-top: 140px;
+    margin-bottom:20px;
+    text-align: center;
+    height: 30px;
+    width:800px;
+    background-color: rgb(42, 96, 80);
+ 
+}
+.card{
+position: relative;
+height: 220px;
+    margin-top: 10px;
+    background-color: rgb(194, 198, 247);
+    text-wrap: wrap;
+}
+
+
+.B1{
+    display: flex;
+    position: relative;
+}
+.pinkbox{
+    position: absolute;
+    height: 300px;
+    width:400px;
+    background-color: rgb(227, 193, 227);
+    margin-left: 300px;
+    margin-top:15px;
+    border: 1px;
+    border-color: black;
+    padding: 5px 5px 5px 5px;
+}
+.whitebox{
+    position: absolute;
+    height: 300px;
+    width:400px;
+    background-color:white;
+    margin-left: 700px;
+    margin-top: 15px;
+    border: 1px;
+    border-color: black;
+    padding: 5px 5px 5px 5px;
+}
+.whitehead{
+    position: relative;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    font-weight: bold;
+}
+.text1{
+    position:absolute;
+    text-align: justify;
+   
+    font-size: x-small;
+    margin-left: 20px;
+}
+.text2{
+    margin-top: 90px;
+    margin-left: 20px;
+    position: absolute;
+    text-align: justify;
+   
+    font-size: x-small;
+}
+.text3{
+   padding-top: 5px;
+    margin-left: 230px;
+
+    position: absolute;
+    text-align: justify;
+   
+    font-size: x-small;
+}
+.pinkhead{
+    text-align: center;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.image{
+  
+ position: absolute;
+ margin-top: -100px;
+ margin-left: 220px; 
+ padding-top: 5px; 
+
+
+}
+.head2{
+    margin-top: 550px;
+    position: absolute;
+   margin-left:400px;
+   justify-content: center;
+   text-align: center;
+   font-size:50px;
+  
+}
+.h2line{
+    margin-top: 5px;
+    font-size: 30px;
+}
+.whitebox2{
+    position: absolute;
+    height: 300px;
+    width:400px;
+    background-color:white;
+    margin-left: -100px;
+    margin-top: 100px;
+    border: 1px;
+    border-color: black;
+    padding: 5px 5px 5px 5px;
+}
+.whitehead2{
+    position: relative;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.ttext1{
+    position:absolute;
+    text-align: justify;
+   
+    font-size: x-small;
+    margin-left: 20px;
+    margin-top: -100px;
+}
+.ttext2{
+    margin-top: 50px;
+    margin-left: 20px;
+    position: absolute;
+    text-align: justify;
+   
+    font-size: x-small;
+}
+.ttext3{
+   padding-top: 110px;
+    margin-left: 230px;
+
+    position: absolute;
+    text-align: justify;
+   
+    font-size: x-small;
+}
+.ttext4{
+    padding-top: 110px;
+     margin-left: 430px;
+ 
+     position: absolute;
+     text-align: justify;
+    
+     font-size: x-small;
+ }
+ .ttext5{
+   margin-top: -100px;
+    margin-left: 650px;
+    position: absolute;
+    text-align: justify;
+   
+    font-size: x-small;
+ }
+ 
